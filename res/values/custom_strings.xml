@@ -2,9 +2,9 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- About phone screen, crDroid version -->
-    <string name="crdroid_version_title">crDroid</string>
-    <string name="crdroid_version_default">Unknown</string>
+    <!-- About phone screen, Orca version -->
+    <string name="orca_version_title">Orca</string>
+    <string name="orca_version_default">Unknown</string>
 
     <!-- General strings -->
     <string name="attention">Attention</string>
